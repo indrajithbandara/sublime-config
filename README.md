@@ -9,6 +9,7 @@ sublime配置
 - Git
 - HTMLBeautify
 - Vintageous 
+- GitGutter   // show git diff
 
 #### 语法
 - Babel
