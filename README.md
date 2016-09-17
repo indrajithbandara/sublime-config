@@ -28,5 +28,7 @@ sublime配置
 - Theme - Soda
 - Theme - SodaSeti
 - Themr
+- Material Theme
+- SyncedSidebarBg
 
 
