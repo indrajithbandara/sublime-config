@@ -6,10 +6,8 @@ sublime配置
 #### 工具
 
 - Emmet
-- Git
 - HTMLBeautify
 - Vintageous 
-- GitGutter
 
 #### 语法
 - Babel
